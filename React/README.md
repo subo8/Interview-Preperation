@@ -35,4 +35,7 @@
     maintained by Facebook, which is one of the largest companies in the world.
     You have a ton of support, so there's a great community, a huge community around React.
     5. React also performs very well it uses something called Virtual Dom.
+~ Create-React-App
+    Create React App (CRA) is a tool to create single-page React application that is officially supported by the React Team.
+    The script generates the required files and folders to start the React application and run it on the browser.
 ````
